@@ -32,7 +32,7 @@ The PKS installation path in this guide requires NSX-T to be installed and Pre-C
 <img src="Images/2019-11-18-15-36-13.png">
 </details>
 <br/>
-
+ 
 1.2 On the `Select name and location` screen, rename the Virtual machine name `opsman` and select `RegionA01` as the datacenter
 
 <details><summary>Screenshot 1.2</summary>
